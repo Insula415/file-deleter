@@ -3,6 +3,9 @@ Read carefully or this won't work.
 You can change the "codered" file to whatever you want, if you change it to "hello" when you type hello in the 
 terminal it will run. So whatever you rename it to will be the word to run the script.
 
+If you don't want to type the directory of the folder to delete, please use file2.py and follow the instructions in the 
+"info2.txt" file.
+
 --------------------------------------------------------------
 Download - $git clone https://github.com/fred415/file-deleter
 
