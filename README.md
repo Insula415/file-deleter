@@ -9,3 +9,5 @@ There is no reviving the documents once this script has
 been executed. 
 
 !!!!This was created on Linux so i don't know if it works on Windows or any other operating systems!!!!
+
+Installation and more information in the "info.txt" file.
