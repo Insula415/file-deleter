@@ -4,6 +4,8 @@ You can change the "codered" file to whatever you want, if you change it to "hel
 terminal it will run. So whatever you rename it to will be the word to run the script.
 
 --------------------------------------------------------------
+Download - $git clone https://github.com/fred415/file-deleter
+
 First, right click on the "codered" file and go to properties, then permissons.
 Make sure the box what says "Allow this file to run as a program" is checked, otherwise the program cannot run.
 
