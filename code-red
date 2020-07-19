@@ -1,4 +1,4 @@
 #!/bin/sh
-python file2.py
+python3 file2.py
 
 echo "finished"
