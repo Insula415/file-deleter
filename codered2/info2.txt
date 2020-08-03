@@ -1,0 +1,11 @@
+1. We need to make the python script executable. Type "chmod +x file2.py" in your terminal.
+
+2. Next, type sudo cp file2.py /usr/bin/codered. 
+The last word is what you need to type in the terminal, example: sudo cp file2.py /usr/bin/hello - I would type "hello" to run it.
+
+3. That's it. Now when you type "codered" in any directory it should work!
+
+
+My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
+ 
+
