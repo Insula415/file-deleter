@@ -5,7 +5,5 @@ The last word is what you need to type in the terminal, example: sudo cp file.py
 
 3. That's it. Now when you type "codered" in any directory it should work!
 
-
-My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
  
 
